@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e390857-8d45-4708-ad36-6d7cc92ac2e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/shared/context/auth-context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/hooks/form-hook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/pages/Auth.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user/pages/Auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/places/components/PlaceItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/places/components/PlaceItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/places/components/PlaceList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/places/components/PlaceList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/places/pages/NewPlace.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/places/pages/PlaceForm.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/places/pages/NewPlace.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/places/pages/NewPlace.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/places/pages/UpdatePlace.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/places/pages/UpdatePlace.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/places/pages/UserPlaces.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/places/pages/UserPlaces.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/components/FormElements/Input.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/components/FormElements/Input.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/components/Navigation/NavLinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/components/Navigation/NavLinks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/components/UIElements/Card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/components/UIElements/Card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +78,7 @@
       <workItem from="1587041576149" duration="16428000" />
       <workItem from="1587064397405" duration="6215000" />
       <workItem from="1587111939583" duration="9955000" />
+      <workItem from="1588107444519" duration="1031000" />
     </task>
     <servers />
   </component>
@@ -101,22 +90,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="71" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1587047417160" />
-    <state width="659" height="177" key="GridCell.Tab.0.bottom" timestamp="1587058569877">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1588107584659">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="659" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587058569877" />
-    <state width="659" height="177" key="GridCell.Tab.0.center" timestamp="1587058569877">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1588107584659" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1588107584659">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="659" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1587058569877" />
-    <state width="659" height="177" key="GridCell.Tab.0.left" timestamp="1587058569877">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1588107584659" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1588107584659">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="659" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1587058569877" />
-    <state width="659" height="177" key="GridCell.Tab.0.right" timestamp="1587058569877">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1588107584659" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1588107584659">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="659" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1587058569877" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1588107584659" />
     <state x="11" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1587119149779">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
